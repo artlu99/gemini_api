@@ -11,6 +11,11 @@ Provided under the MIT License
 Disclaimer:
 use at your own risk
 
+Bleg:
+help improve FOSS, PR's welcome
+
 #NFA
 
 #DYOR
+
+![screenshot](api_gui_screenshot_20230613.png)
